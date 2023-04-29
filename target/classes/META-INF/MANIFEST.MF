@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: gladi
+Build-Jdk: 15
+Implementation-Title: bookstore
+Implementation-Version: 2.0
+Implementation-Vendor-Id: com.esprit.demo
+Implementation-URL: https://spring.io/projects/spring-boot/bookstore
+Created-By: Maven Integration for Eclipse
+
